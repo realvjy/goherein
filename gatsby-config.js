@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `try this food in`,
+    title: `Go here in`,
     author: `vijay verma`,
     description: `Are you travling somewhere. You should check these list and must`,
-    siteUrl: `https://trythisfood.in`,
+    siteUrl: `https://gohere.in`,
     social: {
       twitter: `realvjy`,
     },
